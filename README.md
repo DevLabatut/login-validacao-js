@@ -54,6 +54,5 @@ Senha: teste2026
 
 ## Autor
 
-[![DevLabatut](https://github.com/DevLabatut.png)](https://github.com/DevLabatut)
-
-DevLabatut
+| [<img src="https://github.com/DevLabatut.png" width=115><br><sub>DevLabatut</sub>](https://github.com/DevLabatut) |
+| :---------------------------------------------------------------------------------------------------------------: |
